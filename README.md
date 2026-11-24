@@ -628,3 +628,12 @@ The following diagram shows the complete Functional Safety Career Radar pipeline
 
 ![Functional Safety Career Radar Architecture](docs/architecture.png)
 
+
+---
+
+## Career Radar Example
+
+The Career Radar summarizes discovered opportunities, decision-ready matches, pipeline status, and AI cost-control gates.
+
+![Career Radar example](docs/career-radar-example.png)
+
