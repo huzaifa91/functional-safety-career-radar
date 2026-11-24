@@ -1,0 +1,164 @@
+candidate:
+
+  profile:
+    current_role: "Principal Functional Safety Engineer"
+    experience_years: "9+"
+    location: "Europe"
+
+  target_roles:
+    - Principal Functional Safety Engineer
+    - Senior Functional Safety Engineer
+    - Functional Safety Manager
+    - Functional Safety Architect
+    - Functional Safety Expert
+    - System Safety Engineer
+    - Systems Safety Engineer
+    - Safety Architect
+
+  target_domains:
+    - Automotive
+    - Embedded Systems
+    - Systems Safety
+    - Software Safety
+    - Semiconductor
+    - Robotics
+    - Autonomous Systems
+    - Industrial Automation
+
+  standards:
+    strong:
+      - ISO 26262
+      - ISO 21448
+
+    knowledge:
+      - IEC 61508
+      - ISO 13849
+      - ISO 10218
+      - IEC 62052-31
+
+  functional_safety_lifecycle:
+    - Safety Strategy
+    - Hazard Analysis and Risk Assessment
+    - Safety Planning
+    - Functional Safety Concept
+    - Technical Safety Concept
+    - Safety Requirements
+    - Safety Architecture Assessment
+    - Safety Verification
+    - Safety Validation
+    - Safety Case
+    - Compliance Evidence
+
+  safety_analysis:
+    - FTA
+    - FMEA
+    - FMEDA
+    - SW-FMEA
+    - DFA
+    - FFI
+    - Fault Injection Testing
+    - PMHF
+    - FIT Rate
+    - MTBF
+
+  requirements_engineering:
+    - Safety Goals
+    - Functional Safety Requirements
+    - Technical Safety Requirements
+    - Software Safety Requirements
+    - Requirements Allocation
+    - Requirements Traceability
+
+  systems_engineering:
+    - System Architecture
+    - Software Architecture
+    - Embedded Systems
+    - Real-Time Systems
+    - Hardware-Software Interfaces
+    - Sensors
+    - Actuators
+    - Controls
+
+  software_and_embedded:
+    - AUTOSAR
+    - SysML V2
+    - C programming
+    - Python
+    - MATLAB
+    - VHDL
+    - Verilog
+    - RTL Verification
+    - Control-Flow Analysis
+    - Data-Flow Analysis
+
+  verification_and_validation:
+    - Verification and Validation
+    - Software Fault Injection Testing
+    - Safety Mechanism Evaluation
+    - Safety Verification
+    - Safety Validation
+
+  engineering_tools:
+    - IBM DOORS
+    - Enterprise Architect
+    - Reqtify
+    - APIS IQ
+    - Isograph FTA+
+    - Jira
+    - Eclips IDE
+
+  robotics_and_autonomy:
+    - Robotics Safety
+    - Autonomous Systems Safety
+    - Human-Robot Interaction Safety
+    - Hardware-Software Integration
+    - Perception Safety Awareness
+    - Safety of Intended Functionality
+    - Real-World Deployment Assurance
+
+  industry_experience:
+    - Automotive
+    - Embedded Systems
+    - Safety-Critical Systems
+    - Electricity Metering
+    - Semiconductor Digital Design
+
+  education:
+    degree: "Bachelor of Communications and Electronics Engineering"
+    
+
+  certifications_and_training:
+    - Automotive Functional Safety with ISO 26262
+    - Functional Safety Design Patterns
+    - Requirements Engineering
+    - Embedded Software Architecture
+    - ISTQB Foundation
+
+  matching_preferences:
+
+    priority_standards:
+      - ISO 26262
+      - IEC 61508
+
+    priority_skills:
+      - Functional Safety
+      - Systems Safety
+      - HARA
+      - Functional Safety Concept
+      - Technical Safety Concept
+      - FTA
+      - FMEA
+      - FMEDA
+      - DFA
+      - Safety Case
+      - Safety Requirements
+      - System Testing
+      - Documentation
+
+    career_growth_keywords:
+      - Functional Safety Leadership
+      - Safety Architecture
+      - Semiconductor Functional Safety
+      - Robotics Safety
+      - Autonomous Systems Safety
+      - AI Safety

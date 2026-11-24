@@ -1,0 +1,57 @@
+search_queries:
+  - Functional Safety Engineer
+  - ISO 26262
+  - IEC 61508
+
+countries:
+
+  europe:
+    - de
+    - gb
+    - pl
+
+  north_america:
+    - us
+
+
+search_settings:
+
+  results_per_page: 10
+
+  max_search_calls: 4
+
+  only_new_jobs: true
+
+
+pipeline:
+
+  run_url_discovery: true
+
+  max_url_discovery_per_run: 3
+
+  run_enrichment: true
+
+  max_enrichment_jobs_per_run: 3
+
+  run_rule_matcher: true
+
+  run_ai_matcher: true
+
+  max_ai_jobs_per_run: 3
+
+  generate_html_report: true
+
+
+matching:
+
+  strong_apply: 85
+
+  apply: 70
+
+  consider: 55
+
+enrichment_priority:
+  minimum_preliminary_score: 35
+
+ai_priority:
+  minimum_rule_score: 40

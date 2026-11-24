@@ -1,0 +1,32 @@
+# Secrets
+.env
+
+# Personal configuration
+candidate.yaml
+config.yaml
+
+# Python environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Runtime database/state
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated reports
+reports/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
